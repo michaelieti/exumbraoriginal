@@ -1,6 +1,4 @@
-# michaelieti.github.io
-  
-Ex Umbra  
+# Ex Umbra  
   
 A game by dynam.io  
 Made for SOFTENG306  
